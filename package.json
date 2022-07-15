@@ -1,0 +1,16 @@
+{
+ "type": "module",
+ "dependencies": {
+  "fs-jetpack": "^4.3.1",
+  "readline-sync": "^1.4.10",
+  "replace-in-file": "^6.3.5",
+  "sharp": "^0.30.6",
+  "webp-converter": "^2.3.3"
+ },
+ "devDependencies": {
+  "gulp": "^4.0.2",
+  "gulp-ext-replace": "^0.3.0",
+  "gulp-imagemin": "^8.0.0",
+  "imagemin-webp": "^7.0.0"
+ }
+}
