@@ -4,7 +4,7 @@ import webp from "webp-converter";
 import readline from "readline-sync";
 
 const name = readline.question("Which folder to scan(short code)?");
-const mainFolder = `../igp-exphub-portal-${name}/src/shared/components/ExperiencePortal`;
+const mainFolder = `../folderpath`;
 
 const includeFiles = [".js", ".jsx", ".css", ".scss"];
 const convertAssets = ["*.png", "*.jpg", "*.jpeg"]
